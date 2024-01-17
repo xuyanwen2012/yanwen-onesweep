@@ -20,4 +20,4 @@ target("yanwen-onesweep")
     add_files("src/*.cu")
     add_cugencodes("native")
 
-includes("src/copy")
+-- includes("src/copy")
